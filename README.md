@@ -29,7 +29,7 @@
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,github,laravel,php,tailwind,git,linux,docker,kubernetes,gitlab,azure,html,css," />
+    <img src="https://skillicons.dev/icons?i=laravel,react,javascript,github,php,tailwind,git,linux,docker,kubernetes,gitlab,azure,html,css," />
     
 </div>
 <br/>
