@@ -29,8 +29,8 @@
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,github,tailwind,git,linux,docker,kubernetes,gitlab,azure" />
-    <img src="https://skillicons.dev/icons?i=prometheus,postgresql,supabase,prisma,firebase,mongodb,nextjs,nuxt,graphql,jenkins,terraform,aws,ansible,grafana,gcp" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,github,laravel,php,tailwind,git,linux,docker,kubernetes,gitlab,azure,html,css," />
+    
 </div>
 <br/>
 <hr/>
