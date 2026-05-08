@@ -6,12 +6,12 @@
 </h2>
 
 <div align="center"> 
- It's  Me <b> Umair Hussain Full Stack Web Developer <b>. My mission is to simplify complex concepts with real-world projects and tutorials, empowering learners to grow from absolute beginners to job-ready professionals. 🚀
+ It's  me <b> Umair Hussain Full Stack Web Developer <b>. My mission is to simplify complex concepts with real-world projects and tutorials, empowering learners to grow from absolute beginners to job-ready professionals. 🚀
  <br><br>
  💻 As a <b>Full Stack Web </b>, I work with </b>Laravel Framwork, PHP, Ubuntu, Docker, Mysql, Docker, Git & github to build scalable and high-performing applications.
  <br><br> 
 
- 📚 In addition, I Done My Bs Computer Science from <b>Fedral Urdu University Of Arts Sciencen & Technology Islamabad. </b>
+ 📚 In addition, I Done My Bs Computer Science from <b>Fedral Urdu University Of Arts Sciencen & Technology Islamabad. 
     With 3.52 CGPA.
 </div>
  <br />
