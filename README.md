@@ -6,9 +6,9 @@
 </h2>
 
 <div align="center"> 
- It's  me <b> Umair Hussain Full Stack Web Developer <b>. My mission is to simplify complex concepts with real-world projects and tutorials, empowering learners to grow from absolute beginners to job-ready professionals. 🚀
+ It's  me Umair Hussain Full Stack Web Developer . My mission is to simplify complex concepts with real-world projects and tutorials, empowering learners to grow from absolute beginners to job-ready professionals. 🚀
  <br><br>
- 💻 As a <b>Full Stack Web </b>, I work with </b>Laravel Framwork, PHP, Ubuntu, Docker, Mysql, Docker, Git & github to build scalable and high-performing applications.
+ 💻 As a Full Stack Web , I work with Laravel Framwork, PHP, Ubuntu, Docker, Mysql, Docker, Git & github to build scalable and high-performing applications.
  <br><br> 
 
  📚 In addition, I Done My Bs Computer Science from <b>Fedral Urdu University Of Arts Sciencen & Technology Islamabad. 
